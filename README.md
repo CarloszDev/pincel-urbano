@@ -45,13 +45,12 @@ A arquitetura será baseada em microsserviços, garantindo que o sistema seja es
 
 **Diagrama de Arquitetura (Visão de Alto Nível):**
 
-```mermaid
+
 graph TD
     subgraph "Clientes"
         A[Mobile App - React Native]
         B[Web App - React.js]
     end
-
     subgraph "Backend (Cloud)"
         C(API Gateway)
         D[Serviço de Usuários/Perfis]
@@ -60,7 +59,6 @@ graph TD
         G[Banco de Dados - PostgreSQL]
         H[Storage de Arquivos - S3]
     end
-
     A --> C
     B --> C
     C --> D
