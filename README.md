@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/vH9YAUk.png" alt="Banner do Pincel Urbano" width="600"/>
-</p>
-
 <h1 align="center">Pincel Urbano - Conectando Cores e Oportunidades</h1>
 
 <p align="center">
@@ -43,7 +39,7 @@ O Pincel Urbano ataca esse problema criando um ecossistema digital seguro e efic
 Os protótipos de interface foram desenvolvidos no Figma, focando em uma jornada de usuário clara e objetiva para cada perfil da plataforma.
 
 <p align="center">
-  <a href="https://imgur.com/a/W6KUFYq">
+  <a href="https://imgur.com/a/W6KUFY">
     <img src="https://i.imgur.com/s6nL8m0.png" alt="Prévia do protótipo" width="700">
   </a>
 </p>
