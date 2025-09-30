@@ -97,6 +97,9 @@ Sprint	Duração	Atividades Principais	Entregáveis
 Nome do Aluno	Matrícula	Papel no Projeto
 [Carlos Cauan Moreira]	[2326258]	Arquiteto de Software / Desenvolvedor
 [José Danilo de Sousa]	[2326306] Figma / Imagens
+[Jonarta Santiago Soares]	[2327349]	Documentacao
+[Igor Davi Vieram Dos Santos]	[2326203]	Arquitetura escrita
+
 
 Links Figma - Imagens
 
